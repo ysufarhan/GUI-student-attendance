@@ -6,7 +6,7 @@ Program ini menggunakan bahasa python dengan didukung beberapa library: (harap i
  4.mysql
  5.customtkinter
  6.time
-Program ini menerapkan XAMMP (mysql) yang digunakan sebagai tempat penyimpanan untuk database sistem absensi mahasiswa sehingga mahasiswa dapat diidentifikasi
+Program ini menerapkan XAMPP (mysql) yang digunakan sebagai tempat penyimpanan untuk database sistem absensi mahasiswa sehingga mahasiswa dapat diidentifikasi
 Pada Database, buatlah db dengan nama db_presensi
 Dalam db_presensi buatlah beberapa tabel yang diberikan nama-nama berikut yang diikuti dengan elemen-elemenya yaitu:
  
